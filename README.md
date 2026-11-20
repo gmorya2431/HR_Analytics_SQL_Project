@@ -62,14 +62,18 @@ The project contains 6 relational tables with a total of **10,477 records**.
 
 ## Project Structure
 
-```text
 HR_Analytics_SQL_Project/
+│
+├── 01_Database/
+│   └── 01_schema.sql
 │
 ├── 02_SQL_Analysis/
 │   └── 02_data_analysis.sql
 │
+├── 03_Documentation/
+│   └── business_insights.md
+│
 └── README.md
-```
 
 ## Conclusion
 This project demonstrates practical SQL skills in data validation, relational database analysis, workforce analytics, and business insight generation.
